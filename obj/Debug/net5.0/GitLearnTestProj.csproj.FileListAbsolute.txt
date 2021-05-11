@@ -1,0 +1,16 @@
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.csprojAssemblyReference.cache
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.AssemblyInfoInputs.cache
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.AssemblyInfo.cs
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.csproj.CoreCompileInputs.cache
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\GitLearnTestProj.exe
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\GitLearnTestProj.deps.json
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\GitLearnTestProj.runtimeconfig.json
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\GitLearnTestProj.runtimeconfig.dev.json
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\GitLearnTestProj.dll
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\ref\GitLearnTestProj.dll
+C:\Users\Human\Desktop\GitLearnTestProj\bin\Debug\net5.0\GitLearnTestProj.pdb
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.dll
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\ref\GitLearnTestProj.dll
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.pdb
+C:\Users\Human\Desktop\GitLearnTestProj\obj\Debug\net5.0\GitLearnTestProj.genruntimeconfig.cache
