@@ -6,7 +6,7 @@ namespace GitLearnTestProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<int> ints = new List<int>() {1, 8, 6, 7, 3, 6, 5};
         }
     }
 }
